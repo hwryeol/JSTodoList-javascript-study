@@ -1,8 +1,8 @@
 # JS_beginner
 
 
-바닐라 JS로 만든 간단한 프로젝트
-출처: https://nomadcoders.co/javascript-for-beginners
+바닐라 JS로 만든 간단한 프로젝트   
+출처: [노마드코더][https://nomadcoders.co/javascript-for-beginners]
 
 이번 프로젝트로 공부한 내용
 
