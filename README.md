@@ -1,4 +1,4 @@
-# JS_beginner_KOR
+# JS_beginner
 
 
 바닐라 JS로 만든 간단한 프로젝트
